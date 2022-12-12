@@ -1,0 +1,2 @@
+To train model;
+Ask dataset from here: sercaksoy@gmail.com.
